@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: mail@ernestoblanco.mx
-  facebook: http://www.facebook.com/bc.ernesto
+  facebook: bc.ernesto
   flickr: bc_ernesto
   github: bcernesto/jekyll-now
   instagram:
@@ -28,7 +28,7 @@ footer-links:
   rss: Novedades # just type anything here for a working RSS icon
   twitter: bc_ernesto
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: bcernesto # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
