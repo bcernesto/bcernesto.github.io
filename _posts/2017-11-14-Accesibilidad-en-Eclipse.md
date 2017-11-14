@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "artículo dos"
+title: "La accesibilidad en Eclipse"
 tags:
 ---
 retomando el tema.
